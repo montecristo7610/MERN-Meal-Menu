@@ -1,4 +1,4 @@
-# Meal Plan
+# Meal Menu
 ![cover](./assets/meal-plan.gif)
 
 ## 🦉 Main information

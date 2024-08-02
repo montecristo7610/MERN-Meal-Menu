@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>
-      <h1>Meal Plan</h1>
+      <h1>Meal Menu</h1>
       <input
         type="text"
         placeholder="Add a meal"
